@@ -1,0 +1,2 @@
+{{_expr_:substitute(&commentstring, "%s", "vim\: set ft={{_input_:filetype}} ts={{_input_:tabshift}} sw={{_input_:shiftwidth}}","")}}
+{{_cursor_}}

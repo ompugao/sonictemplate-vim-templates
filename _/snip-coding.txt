@@ -1,0 +1,2 @@
+{{_expr_:substitute(&commentstring, "%s", "-\*- coding: {{_input_:coding}} -\*-","")}} 
+{{_cursor_}}
